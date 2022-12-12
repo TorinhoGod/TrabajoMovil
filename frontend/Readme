@@ -1,0 +1,7 @@
+//A dependencies de pubspec.yaml se agregan las líneas:
+    web_socket_channel: ^2.1.0.
+    camera:
+    path_provider:
+    path:
+    
+    
